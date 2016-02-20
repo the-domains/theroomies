@@ -1,6 +1,6 @@
 name: theRoomies
 favicon: null
-layout_spectrum: 0.12901495024561882
+layout_spectrum: 1
 typography_spectrum: 0.5028900653123856
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.23367948085069656
+  brandStrength: 0.1875
   lightness: 0.04869332117959857
   saturation: 0.7920759310945868
   rhythmicContrast: 0.4809281383641064
